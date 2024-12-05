@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<head>
+<title>You're welcome to my site</title>
+<link rel="stylesheet" href="nicholus.css">
+<script src="nicholus.js" type="text/JavaScript"></script>
+</head>
+<body>
+<div class="search">
+		<input class="srch" type="search" name="" placeholder="Type to text">
+		<a href="#"><button class="btn">search</button></a>
+	</div><br><br>
+<h1>WELCOME TO MY WEBSITE.<h1>
+<img src="nicholus.jpg" id="tit">
+<h3>May you sit and listen to my interesting story</h3>
+<div class="nin">
+<ul>
+<li><a href="signup.html">Sign up</a></li>
+<li><a href="home.html">Home</a></li>
+<li><a href="aboutme.html">Aboutme</a></li>
+<li><a href="myimages.html">Images</a></li>
+</ul>
+</div><BR><BR><BR>
+<img src="me.jpg" class="rounded float-start" alt="my first image">
+<img src="me6.jpg" class="rounded float-end" alt="my second image">
+<img src="me1.jpg" class="rounded float-end" alt="my third image">
+<img src="me2.jpg" class="rounded float-end" alt="my fourth image">
+<img src="me4.jpg" class="rounded float-end" alt="my fifth">
+
+<h4>MY BACKGROUND</H4>
+<p class="background">My name is Serwadda Nicholus.<SPAN>i wa born in  Binikiriro lwebitakuli sub county, Mawogola county in Sembabule district.</SPAN><BR>
+I was raised from a poor background with my parents almost failing to cathe for the number of children that they had. As time went i travelled to Kalangala<br> where i had hopes of working hard to raise my family.
+Luckily i found a helper who held me by hand to go for school, iused that opportuinity to see my self working hard to raise my family.<br>
+i am now a certified auditor for dymine bank.
+</P>
+<H4>MY MISSION</H4>
+<P class="vision">My mission is to inspire a lifelong love of learning and nurture each child's natural curiosity</P>
+<H4>MY VISION</H4>
+<P class="vision">I strive to support this environment by building a more inclusive curriculum, addressing a range of learning styles, offering a wide array of diversity efforts and programs, and by participating in the wider community.</P>
+<footer>
+<p>I LOVE MY COUNTRY AND I WANT TO SEE ALL PEOPLE GROW IN MY VISION</P>
+	
+		<P>For more information about me</P>
+<p ID="CONTACT">CONTACT ME <br> email address:sserwadda.nicholus@stud.umu.ac.ug <br><br>FACEBOOK   @sserwadda nicholus.<br><br>  TELPHONE:0781233576/ 0800342516</P>
+
+<P ID="CONTACT">  &COPY; SSERWADDA NICHOLUS</p>
+</footer>
+
+
+
+
+</body>
+</head>
+</html>
